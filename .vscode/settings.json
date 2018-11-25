@@ -1,0 +1,10 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "python.autoComplete.addBrackets": true,
+    "vsintellicode.python.completionsEnabled": true,
+    "python.autoComplete.extraPaths": [
+        "C:/ProgramData/Anaconda3/Lib",
+        "C:/ProgramData/Anaconda3/Lib/site-packages"
+    ]
+}
